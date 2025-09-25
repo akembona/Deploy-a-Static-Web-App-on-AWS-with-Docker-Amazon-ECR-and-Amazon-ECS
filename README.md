@@ -1,4 +1,4 @@
-![Alt text](/Host a Static Web App On AWS Using Docker.jpeg)
+![Alt text](DWA.jpeg)
 
 
 # Static Web App Deployment on AWS with Docker, Amazon ECR, and Amazon ECS
